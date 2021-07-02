@@ -47,9 +47,15 @@ Restart your hackintosh
 
 --------
 How to load voodooHDA if it is not working  
-% sudo kmutil load -p /Library/Extensions/voodooHDA.kext
+% sudo kmutil load -p /Library/Extensions/voodooHDA.kext  
 % sudo touch /Library/Extensions
 
 Restart your hackintosh
 
 Enjoy your music :)
+
+-------
+Credits
+Slice, Herve - Insanelymac
+Chris1111 - Hackintosh Montreal
+Hackintosh107 - github
