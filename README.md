@@ -39,6 +39,9 @@ DO NOT click Restart. Click Not Now
 Install voodooHDA.kext with Hackintool via kmutil
 ()
 
+Set csr-active-config to EF0F0000 DATA String in config.plist
+()
+
 Restart your hackintosh
 
 Enjoy your music :)
