@@ -10,7 +10,7 @@ In Terminal,
 % csrutil authenticated-root disable
 
 Set csr-active-config to 0x0285 String in config.plist
-()
+![Screenshot](https://github.com/yahgoo/installVoodooHDA4BSnMont/blob/main/img/Screenshot%202021-07-02%20at%2011.19.57%20AM.png)
 
 Mount Big Sur volume with terminal (not sure if this step is required)
 % sudo diskutil mountdisk disk1s5
