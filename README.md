@@ -55,7 +55,7 @@ Restart your hackintosh
 Enjoy your music :)
 
 -------
-Credits
-Slice, Herve - Insanelymac
-Chris1111 - Hackintosh Montreal
+## Credits
+Slice, Herve - Insanelymac  
+Chris1111 - Hackintosh Montreal  
 Hackintosh107 - github
