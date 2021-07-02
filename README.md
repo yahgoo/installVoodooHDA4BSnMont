@@ -6,7 +6,7 @@ Disable csr
 Boot to Recovery
 In Terminal,
 
-% csrutil disable
+% csrutil disable  
 % csrutil authenticated-root disable
 
 Set csr-active-config to 0x0285 String in config.plist
